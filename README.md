@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cagongman
-- 👀 I’m interested in VR/AR
+- 👀 I’m interested in AR/VR
 
 <!---
 cagongman/cagongman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
